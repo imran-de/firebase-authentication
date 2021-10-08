@@ -1,0 +1,16 @@
+.social-login-icon li{
+    border: none;
+    cursor: pointer;
+}
+.fa-google{
+    color: #EA4335;
+}
+.fa-facebook{
+    color: blue;
+}
+.fa-twitter{
+    color: #1D9BF0;
+}
+small{
+    font-size: 14px;
+}
